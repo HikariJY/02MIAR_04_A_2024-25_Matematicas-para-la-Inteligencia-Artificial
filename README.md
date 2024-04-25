@@ -7,7 +7,7 @@ Autor: **Josseph Yaakob Catagua Cobos**
 ## **Actividades**
 *Actividad Autoevaluada 01*
 - [PDF dado](https://github.com/HikariJY/02MIAR_04_A_2024-25_Matematicas-para-la-Inteligencia-Artificial/blob/main/Actividades/AA01_actividades_logica.pdf)
-- Word hecho
+- PDF hecho
 - PDF solución
 
 
