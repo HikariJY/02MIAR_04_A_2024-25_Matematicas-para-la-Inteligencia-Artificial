@@ -5,5 +5,9 @@ Autor: **Josseph Yaakob Catagua Cobos**
 - [02MIAR_Guia_Didactica](https://github.com/HikariJY/02MIAR_04_A_2024-25_Matematicas-para-la-Inteligencia-Artificial/blob/main/02MIAR_Guia_Didactica.pdf)
 - [02MIAR_Guia_Didactica_Anexo](https://github.com/HikariJY/02MIAR_04_A_2024-25_Matematicas-para-la-Inteligencia-Artificial/blob/main/02MIAR_Guia_Didactica_Anexo.pdf)
 ## **Actividades**
-NA
+*Actividad Autoevaluada 01*
+- [PDF dado](https://github.com/HikariJY/02MIAR_04_A_2024-25_Matematicas-para-la-Inteligencia-Artificial/blob/main/Actividades/AA01_actividades_logica.pdf)
+- Word hecho
+- PDF solución
+
 
