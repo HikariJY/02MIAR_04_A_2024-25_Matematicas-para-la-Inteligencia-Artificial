@@ -16,7 +16,7 @@ Autor: **Josseph Yaakob Catagua Cobos**
 - [Clase 05](https://github.com/HikariJY/02MIAR_04_A_2024-25_Matematicas-para-la-Inteligencia-Artificial/blob/main/Presentaciones/C05-algebra_clase.pdf) y el [OpenBoard](https://github.com/HikariJY/02MIAR_04_A_2024-25_Matematicas-para-la-Inteligencia-Artificial/blob/main/Presentaciones/C05-algebra_clase_OpenBoard.pdf)
 - [Clase 06](https://github.com/HikariJY/02MIAR_04_A_2024-25_Matematicas-para-la-Inteligencia-Artificial/blob/main/Presentaciones/C06-algebra_clase.pdf) y el [OpenBoard](https://github.com/HikariJY/02MIAR_04_A_2024-25_Matematicas-para-la-Inteligencia-Artificial/blob/main/Presentaciones/C06-algebra_clase_OpenBoard.pdf)
 ### Cálculo
-- [Clase 07](https://github.com/HikariJY/02MIAR_04_A_2024-25_Matematicas-para-la-Inteligencia-Artificial/blob/main/Presentaciones/C07-calculo_clase.pdf) y el [OpenBoard]()
+- [Clase 07](https://github.com/HikariJY/02MIAR_04_A_2024-25_Matematicas-para-la-Inteligencia-Artificial/blob/main/Presentaciones/C07-calculo_clase.pdf) y el [OpenBoard]
 ## Actividades
 ### Actividad Autoevaluada 01 Lógica
 Del [PDF dado](https://github.com/HikariJY/02MIAR_04_A_2024-25_Matematicas-para-la-Inteligencia-Artificial/blob/main/Actividades/AA01_actividades_logica.pdf) se obtiene el [PDF hecho](https://github.com/HikariJY/02MIAR_04_A_2024-25_Matematicas-para-la-Inteligencia-Artificial/blob/main/Actividades/AA01_actividades_logica_mio.docx) y para comprobar el [PDF solución](https://github.com/HikariJY/02MIAR_04_A_2024-25_Matematicas-para-la-Inteligencia-Artificial/blob/main/Actividades/AA01_actividades_logica_solucion.pdf)
